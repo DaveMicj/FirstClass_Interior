@@ -9,3 +9,6 @@ About Page: This page should contain information about their company. This shoul
 Shop Page: This page should contain the images of items along with the prize which they are selling.
 There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages. <br>
 Further details pending.
+
+<br>
+Smith private Limited consists of Clay-Henery-Business Analyst, Daniel-Desginer, David-Coder, Blake-Tester
