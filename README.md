@@ -13,4 +13,4 @@ Extra details from client(email questions):
 Question 1: Are you wishing for the website to be continuously updated with more products and to take us on board for that task? A:in the future we will add more products but do not add those tasks on board right now as we are just focusing on basic requirements. Question 2: Any specific colour / design schemes you are wishing for us to comply to? A:You can use any color scheme that match with our website concept and it should be atractive. Question 3: What is some information you absolutely need displayed? A: Could you add a return policy in the footer ie:"customer can replace and return product within 15 days". Question 4: Are you willing to have our brand / logo marked somewhere in order to show who made the website? A:Yes you can add your company logo and compny name at the bottom right(in footer section).
 
 
-Smith private Limited consists of Clay-Henery-Business Analyst, Daniel-Desginer, David-Coder, Blake-Tester
+Smith private Limited consists of Clay-Henery-Business Analyst, Daniel-Desginer, David-Coder, Blake-Tester.
